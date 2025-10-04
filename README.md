@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="200"/>
+  <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="500"/>
 </p>
 
 - 🎓 Bachelor’s in Commerce (Credit Hours Program) – **Accounting & Finance**  
@@ -27,7 +27,7 @@
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Microsoft_Excel_2013_logo.svg" width="60" title="Excel" style="margin:8px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" title="SQL" style="margin:8px"/>
-  <img src="https://www.python.org/static/community_logos/python-logo.png" width="60" title="Python" style="margin:8px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" title="Python" style="margin:8px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Power_BI_logo.png" width="60" title="Power BI" style="margin:8px"/>
 </p>
 
