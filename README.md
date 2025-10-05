@@ -61,7 +61,7 @@
   <a href="https://www.facebook.com/moustafa.maged.357" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-Mostafa-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" style="margin:5px"/>
   </a>
-  <a href="https://mostafamaged067-stack.github.io/portfolio1/" target="_blank">
+  <a href="https://mostafamaged067-stack.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Mostafa-%23FF69B4?style=for-the-badge&logo=firefox&logoColor=white" style="margin:5px"/>
   </a>
 </p>
