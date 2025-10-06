@@ -43,7 +43,7 @@
 
 ## 📄 My CV
 <p align="center">
-  <a href="https://drive.google.com/file/d/1y-s3h10T5CYlzK8Xi2ibVctUe5P-c6AD/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1Gqh6ZX2BSoay2LMW5JSXy9lU9NujzmMh/view?usp=sharing" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" width="80" alt="My CV" style="margin:10px"/>
   </a>
 </p>
