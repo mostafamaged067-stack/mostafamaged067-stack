@@ -14,12 +14,12 @@
   <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="500"/>
 </p>
 
-- 🎓 Bachelor’s in Commerce (Credit Hours Program) – **Accounting & Finance**  
-- 📊 Passionate **Data Analyst**, turning data into insights  
+- 🎓 Bachelor’s in Commerce (Credit Hours Program) – **Accounting & Finance Program**  
+- 📊 **Data Analyst** passionate about transforming data into meaningful insights  
 - 💻 Skilled in **Excel, SQL, Python, Power BI**  
-- 🌱 Working on **Green Finance & Business Intelligence projects**  
-- 🌍 Based in Egypt 🇪🇬  
-- 📬 Reach me: [LinkedIn](https://www.linkedin.com/in/mostafa-maged1) | [GitHub](https://github.com/mostafamaged067-stack)
+- 🌱 Currently focusing on building **interactive dashboards** and **data-driven financial analyses** to support business decisions   
+- 🌍 Based in **Zagazig, Egypt** 🇪🇬  
+- 📬 **Reach me:** [LinkedIn](https://www.linkedin.com/in/mostafa-maged1) | [GitHub](https://github.com/mostafamaged067-stack)
 
 ---
 
