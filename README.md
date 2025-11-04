@@ -28,7 +28,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Microsoft_Excel_2013_logo.svg" width="60" title="Excel" style="margin:8px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" title="SQL" style="margin:8px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" title="Python" style="margin:8px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Power_BI_logo.png" width="60" title="Power BI" style="margin:8px"/>
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/f/f5/Power_BI_logo.png](https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000)" width="60" title="Power BI" style="margin:8px"/>
 </p>
 
 ---
