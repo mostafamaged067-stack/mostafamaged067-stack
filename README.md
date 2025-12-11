@@ -19,7 +19,7 @@
 - 💻 Skilled in **Excel, SQL, Python, Power BI**  
 - 🌱 Currently focusing on building **interactive dashboards** and **data-driven financial analyses** to support business decisions   
 - 🌍 Based in **Zagazig, Egypt** 🇪🇬  
-- 📬 **Reach me:** [LinkedIn](https://www.linkedin.com/in/mostafa-maged1) | [GitHub](https://github.com/mostafamaged067-stack)
+- 📬 **Reach me:** [LinkedIn](https://www.linkedin.com/in/mostafa-maged1) | [GitHub](https://wonderful-buttercream-b05a34.netlify.app/)
 
 ---
 
